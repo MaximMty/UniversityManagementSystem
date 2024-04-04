@@ -6,7 +6,7 @@ package com.mycompany.hustleruniversity;
 
 /**
  *
- * @author Maxim
+ * @author Maxim test
  */
 public class HustlerUniversity {
 
