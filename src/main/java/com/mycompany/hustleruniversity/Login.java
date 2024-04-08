@@ -15,8 +15,8 @@ public class Login extends JDialog {
 
     public Login(JFrame parent){
         super(parent);
+        initComponents();
         setTitle("Login");
-        setContentPane(LoginPanel);
         setMinimumSize(new Dimension(500,474));
         setModal(true);
         setLocationRelativeTo(parent);
