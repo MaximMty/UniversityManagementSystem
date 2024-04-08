@@ -40,7 +40,7 @@ public class Login extends JDialog {
     public User user;
 
     private User getAuthenticatedUser(String login, String password){
-        File file = new File("src/LoginDetails");
+        File file = new File("src/main/java/com/mycompany/hustleruniversity/LoginDetails");
         try {
             Scanner scanner = new Scanner(file);
             while (scanner.hasNextLine()) {
