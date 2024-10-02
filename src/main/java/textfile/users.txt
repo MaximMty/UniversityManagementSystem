@@ -1,0 +1,5 @@
+TP000001,victor001,student
+LC000001,maxim001,lecturer
+AD000002,darryl002,admin
+LC000002,Jaclyn002,project manager
+LC000003,Keat003,lecturer

@@ -1,0 +1,3 @@
+LC000001,maxim001,Maxim,male,Russian,Computing,false
+LC000002,Jaclyn002,Jaclyn,Korean,female,Psychology,true
+LC000003,Keat003,Keat,Male,African,Psychology,false
